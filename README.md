@@ -1,2 +1,4 @@
-# PDF-Parser
-The Financial Documents parser application can take in millions of Finance related files and parse the needed fields and categorize them.
+# Fast-Review
+A general-purpose data exploration app to validate and perform minor corrections in datasets.
+
+[Streamlit app](https://share.streamlit.io/thiagobc23/fast-review/main/fast-review.py)
